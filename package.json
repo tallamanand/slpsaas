@@ -18,7 +18,8 @@
     "pinia": "^2.1.0",
     "vue": "^3.4.0",
     "vue-router": "^4.2.0",
-    "vuetify": "^3.8.4"
+    "vuetify": "^3.8.4",
+    "vite": "^5.x.x"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.0",
